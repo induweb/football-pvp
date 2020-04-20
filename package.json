@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/induweb/football-pvp/issues"
   },
-  "homepage": "https://github.com/induweb/football-pvp#readme"
+  "homepage": "https://github.com/induweb/football-pvp#readme",
+  "devDependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
 }
