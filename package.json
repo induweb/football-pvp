@@ -1,0 +1,19 @@
+{
+  "name": "football-pvp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/induweb/football-pvp.git"
+  },
+  "author": "Induweb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/induweb/football-pvp/issues"
+  },
+  "homepage": "https://github.com/induweb/football-pvp#readme"
+}
